@@ -1,0 +1,2 @@
+Modelo de relatório do trabalho obrigatório na ferramenta online Overleaf
+Funciona como um Google Docs de Latex, incluindo a parte de edição simultânea: https://www.overleaf.com/read/dmvbqrcmmymb

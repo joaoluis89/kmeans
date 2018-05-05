@@ -1,0 +1,24 @@
+Foram utilizados apenas os documentos de test e training da reuters disponível na nltk (10788).
+
+Retirar todos os documentos com menos de 250 caracteres (8390).
+
+reuters tem 135 categorias, multicategorias
+
+
+hifens são retirados e as palavras concatenadas, todos os números foram retirados e tokens com tamanho menor que 2.
+trocando todos os US por united states
+
+
+cortes de termos superior: 0.90 | inferior: 0.05, 0.10.
+
+    
+#https://miguelmalvarez.com/2015/03/20/classifying-reuters-21578-collection-with-python-representing-the-data/
+
+
+# To activate this environment, use:
+# > activate python27
+#
+# To deactivate an active environment, use:
+# > deactivate
+#
+# * for power-users using bash, you must source
